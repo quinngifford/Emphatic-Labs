@@ -68,5 +68,7 @@ Short, plain, declarative. State what's true now rather than manufacturing tract
 
 ## Domain
 
-Site assumes `emphaticlabs.com` for its email addresses. **Not yet verified as available** —
-check before anything gets printed. Fallbacks: `emphatic.dev`, `emphaticlabs.io`, `emphatic.co`.
+**emphaticlab.com** — registered and in use.
+
+Addresses on the site: `quinngifford@` for general and legal contact, `careers@` for applications.
+Both need to exist as real mailboxes or forwarders before launch.
